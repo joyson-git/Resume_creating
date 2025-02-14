@@ -10,11 +10,10 @@ const LandingPage = () => {
         <div className="hero-content text-center">
           <div className="max-w-2xl">
             <h1 className="text-5xl font-bold">
-              Create Your Perfect Resume with AI
+            Craft Your Ideal Resume with AI-Powered Precision
             </h1>
             <p className="py-6 text-lg">
-              Build a professional resume in minutes. Just describe yourself,
-              and our AI will do the rest!
+             "Create a polished resume in no time! Simply share your details, and our AI will handle the rest!"
             </p>
             <Link to={"/generate-resume"} className="btn btn-primary">
               Get Started
